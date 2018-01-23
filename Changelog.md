@@ -1,3 +1,7 @@
+# v0.8.15 2018-01-23
+
+* Support for rspec-3.7
+
 # v0.8.14 2017-07-06
 
 * Support ruby 2.4 #719
