@@ -1,5 +1,4 @@
 --color
 --require spec_helper
---format progress
---warnings
---order random
+--format documentation
+--format html --out rspec.html
